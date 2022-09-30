@@ -1,1 +1,4 @@
 /.idea/misc.xml
+venv
+__pycache__
+.idea
